@@ -21,7 +21,9 @@
 
 ## Construido con
 
-- React
+- HTML Semántico
+- SASS/SCSS
+- JavaScript
 
 ## Autor
 
